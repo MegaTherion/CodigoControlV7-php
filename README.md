@@ -1,7 +1,7 @@
 Codigo de Control V7 PHP para el Servicio Nacional de Impuestos de Bolivia
 ==========================================================================
 
-Este proyecto es una implementación del algoritmo para obtener el código de control exigido por el [Servicio Nacional de Impuestos de Bolivia](http://www.impuestos.gob.bo) para ser impreso en cada factura que emita un sistema de facturación y ventas.
+Este proyecto es una implementación del algoritmo para obtener el código de control exigido por el [Servicio Nacional de Impuestos de Bolivia](http://www.impuestos.gob.bo) para ser impreso en cada factura que emita un sistema de facturación y ventas. *ESTÁ PROBADO con los 5000 casos de prueba que brinda la web del Servicio Nacional de Impuestos.*
 
 Esta implementación en PHP tiene licencia Apache y puedes usarlo libremente en tus proyectos.
 
