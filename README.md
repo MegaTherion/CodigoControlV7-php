@@ -25,7 +25,7 @@ $fecha_compra = '20070702';
 $monto_compra = '2500';
 $clave = '9rCB7Sv4X29d)5k7N%3ab89p-3(5[A';
 
-echo CodigoControlV7::generar($numero_autorizacion, $numero_factura, $nit_cliente, $fecha_compra, $monto_compra);
+echo CodigoControlV7::generar($numero_autorizacion, $numero_factura, $nit_cliente, $fecha_compra, $monto_compra, $clave);
 ```
 
 El método `generar()` recibe seis cadenas en el siguiente orden y correspondientes a los siguientes parámetros:
