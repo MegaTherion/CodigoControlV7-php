@@ -25,8 +25,7 @@ class AllegedRC4
 			$msg[$i] = chr($r);
 			$msg_hex .= sprintf("%02X",$r);
 		}
-		if ($mode == 'hex') return $msg_hex;
-		else return $msg;
+		return ($mode=='hex'?$msg_hex:$msg);
 	}
 	private static function swap(&$x, &$y)
 	{
