@@ -51,4 +51,9 @@ Estás buscando la implementación en Java?, tengo la solución, sólo escríbem
 
 Estás buscando la implementación en C#?, tengo la solución, sólo escríbeme a megatherion@tuxnir.com
 
+### Codigo de Control V7 en Ansi C
+
+Estás buscando la implementación en Ansi C?, tengo la solución, sólo escríbeme a megatherion@tuxnir.com
+
+
 Happy codding! :D
