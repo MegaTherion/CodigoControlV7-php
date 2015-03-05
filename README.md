@@ -47,7 +47,7 @@ Si tienes alguna pregunta o deseas la integración del código a tu sistema, esc
 
 Estás buscando la implementación en Java?, tengo la solución, sólo escríbeme a megatherion@tuxnir.com
 
-### Codigo de Control V7 en C#
+### Codigo de Control V7 en C\# 
 
 Estás buscando la implementación en C#?, tengo la solución, sólo escríbeme a megatherion@tuxnir.com
 
